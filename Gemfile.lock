@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    hako-codebuild (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  hako-codebuild!
+  rake
+
+BUNDLED WITH
+   1.16.1
