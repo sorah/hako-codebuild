@@ -18,7 +18,7 @@ GEM
       aws-sigv4 (~> 1.0)
       jmespath (~> 1.0)
     aws-sigv4 (1.0.3)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     rake (12.3.1)
 
 PLATFORMS
